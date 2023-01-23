@@ -1,0 +1,1 @@
+This is FileA created to test git
