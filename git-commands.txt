@@ -7,3 +7,4 @@ git add .
 git commit -m "initial commit"
 git log
 git wrong command to test going back to previous commit
+git rm --cached filename = to unstage a file from staging area
