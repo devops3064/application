@@ -8,3 +8,5 @@ git commit -m "initial commit"
 git log
 git wrong command to test going back to previous commit
 git rm --cached filename = to unstage a file from staging area
+git branch newbranchname = it creates a new branch
+git merge branchname(Feature1) = this command will merge the branch(Feature1) to the main branch
