@@ -6,3 +6,4 @@ git config --global --list
 git add .
 git commit -m "initial commit"
 git log
+git wrong command to test going back to previous commit
