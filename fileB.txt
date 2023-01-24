@@ -1,1 +1,2 @@
 this is fileB created to test git
+editing file to push to github
